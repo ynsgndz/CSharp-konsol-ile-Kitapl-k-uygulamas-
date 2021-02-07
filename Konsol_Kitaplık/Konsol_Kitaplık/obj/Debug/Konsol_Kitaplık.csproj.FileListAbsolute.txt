@@ -1,0 +1,7 @@
+C:\Users\yns3g\source\repos\Konsol_Kitaplık\Konsol_Kitaplık\bin\Debug\Konsol_Kitaplık.exe.config
+C:\Users\yns3g\source\repos\Konsol_Kitaplık\Konsol_Kitaplık\bin\Debug\Konsol_Kitaplık.exe
+C:\Users\yns3g\source\repos\Konsol_Kitaplık\Konsol_Kitaplık\bin\Debug\Konsol_Kitaplık.pdb
+C:\Users\yns3g\source\repos\Konsol_Kitaplık\Konsol_Kitaplık\obj\Debug\Konsol_Kitaplık.csprojAssemblyReference.cache
+C:\Users\yns3g\source\repos\Konsol_Kitaplık\Konsol_Kitaplık\obj\Debug\Konsol_Kitaplık.csproj.CoreCompileInputs.cache
+C:\Users\yns3g\source\repos\Konsol_Kitaplık\Konsol_Kitaplık\obj\Debug\Konsol_Kitaplık.exe
+C:\Users\yns3g\source\repos\Konsol_Kitaplık\Konsol_Kitaplık\obj\Debug\Konsol_Kitaplık.pdb
